@@ -1,0 +1,25 @@
+[
+    {
+        "nombre": "Cesar Mateo Vera Andrade",
+        "ci": "-",
+        "resultados": []
+    },
+    {
+        "nombre": "Dina Ie Guaguasubera",
+        "ci": "9524040",
+        "resultados": [
+            {
+                "tipo": "perfil",
+                "fuente": "www.facebook.com",
+                "url": "https://www.facebook.com/Desinformemonos/posts/5473903452651302/?locale=sw_KE",
+                "confianza": "media"
+            },
+            {
+                "tipo": "perfil",
+                "fuente": "www.facebook.com",
+                "url": "https://www.facebook.com/story.php?story_fbid=5473903452651302&id=180812578627109",
+                "confianza": "media"
+            }
+        ]
+    }
+]
